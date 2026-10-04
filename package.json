@@ -1,0 +1,19 @@
+{
+  "name": "alibat-panel",
+  "version": "1.2.0",
+  "description": "AliBat Panel: multilingual connection management, real usage history, node diagnostics and bulk user tools, with per-user WireGuard.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --alibat-selftest"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Ali & Panel Creator",
+  "license": "MIT"
+}
