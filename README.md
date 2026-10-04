@@ -41,6 +41,8 @@
 ---
 
 ##  اسکرین‌شات | Screenshots
+<img width="1903" height="944" alt="image" src="https://github.com/user-attachments/assets/70d71d6b-588c-4f88-b821-1499d6b894c3" />
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/7b283910-1387-4a2d-9bf2-fcbd30cac9d4" />
 
 <div align="center">
 
@@ -48,6 +50,8 @@
 ![Users](https://img.shields.io/badge/Users-کاربران-gold)
 ![WireGuard](https://img.shields.io/badge/WireGuard-وایرگارد-blue)
 ![SpeedTest](https://img.shields.io/badge/Speed%20Test-تست%20سرعت-green)
+<img width="1905" height="932" alt="image" src="https://github.com/user-attachments/assets/730fa68a-adc1-4a15-a2fb-6494e389a2f9" />
+<img width="1903" height="933" alt="image" src="https://github.com/user-attachments/assets/96059570-c867-4ec2-9b6f-de69bfc9aee0" />
 
 </div>
 
